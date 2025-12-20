@@ -1,0 +1,10 @@
+* [33m2575da6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/auth-integration[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature/task-logic[m[33m, [m[1;31morigin/feature/auth-integration[m[33m, [m[1;31morigin/HEAD[m[33m)[m Из requirements.txt удалены системные пакеты Ubuntu и оставлены только необходимые Python-зависимости для Django-проекта.
+*   [33m9f3fa43[m Merge pull request #1 from maria-skriabina/feature/auth-integration
+[32m|[m[33m\[m  
+[32m|[m *   [33m4ef2bb8[m Merge branch 'main' into feature/auth-integration
+[32m|[m [34m|[m[32m\[m  
+[32m|[m [34m|[m[32m/[m  
+[32m|[m[32m/[m[34m|[m   
+* [34m|[m [33me47a6a5[m init: чистая ветка main
+ [34m/[m  
+* [33m2a7514a[m feat(accounts): добавила приложение accounts с моделью UserProfile и миграциями
